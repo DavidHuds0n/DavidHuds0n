@@ -1,5 +1,7 @@
 ### Olá, pessoa amável da internet! Eu sou o Hud 👋
 
+# Sobre mim: 
+
 <table>
   <tr>
     <td>
@@ -22,6 +24,8 @@
 
 ##
 
+## GitHub Stats:
+
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHuds0n&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="height: 10em; flex: 2;">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidHuds0n&theme=merko&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="height: 10em; flex: 1;">
@@ -31,6 +35,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ##
+
+## Socials:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davihudsonga@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-hudson-394348272/) 
