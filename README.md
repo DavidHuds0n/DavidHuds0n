@@ -1,6 +1,6 @@
-### Olá, pessoa amável da internet! Eu sou o Hud 👋
+# Olá, pessoa amável da internet! Eu sou o Hud 👋
 
-# Sobre mim: 
+## Sobre mim: 
 
 <table>
   <tr>
@@ -21,9 +21,6 @@
   </tr>
 </table>
 
-
-##
-
 ## GitHub Stats:
 
 <div style="display: flex;">
@@ -33,8 +30,6 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-##
 
 ## Socials:
 
