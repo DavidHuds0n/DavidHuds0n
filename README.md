@@ -23,8 +23,8 @@
 ##
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHuds0n&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="height: 100px; flex: 2;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidHuds0n&theme=merko&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="height: 100px; flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHuds0n&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="height: 11em; flex: 2;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidHuds0n&theme=merko&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="height: 11em; flex: 1;">
 </div>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
