@@ -12,7 +12,7 @@
     <td>
       <ul>
         <li>🎓 Sou estudante de ciências da computação na Universidade Federal do Cariri (UFCA).</li>
-        <li>💻 Atualmente, estou focado em aprender duas linguagens de programação: C e Python.</li>
+        <li>💻 Atualmente, estou focado em aprender duas linguagens de programação: C e Java.</li>
         <li>🚀 Minha jornada como programador está apenas começando, ainda tenho muito a aprender.</li>
         <li>🔥 Estou comprometido em aprimorar minhas habilidades de programação e resolver desafios cada vez mais complexos.</li>
         <li>💡 Technology fascinates me!</li>
@@ -30,6 +30,8 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
+
 
 ## Socials:
 
