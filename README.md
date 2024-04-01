@@ -1,4 +1,4 @@
-# Olá, pessoa amável da internet! Eu sou o Hud 👋
+# Olá, pessoa amável da internet! Eu sou o Huds 👋
 
 ## Sobre mim: 
 
