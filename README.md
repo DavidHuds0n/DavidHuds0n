@@ -28,6 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DavidHuds0n&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="height: 10em; flex: 1;">
 </div>
 
+## Languages:
 ![C](https://github.com/DavidHuds0n/DavidHuds0n/assets/148264298/d7d4861d-a39d-4820-8777-3be54ecb6752)
 ![JAVA](https://github.com/DavidHuds0n/DavidHuds0n/assets/148264298/aa87b9b5-66a5-4063-91bf-df748695dd8c)
 
